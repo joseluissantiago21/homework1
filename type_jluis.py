@@ -1,4 +1,6 @@
 #! /usr/bin/python
+print ("This example described the output type_class")
+print ("  ")
 print ("a.)", "9-3 =", 9-3, "IS_TYPE==>", type(9-5))
 print ("b.)", "8*2.5 =", 8*2.5, "IS_TYPE==>", type(8*2.5))
 print ("c.)", "9/2 =", 9/2, "IS_TYPE==>", type(9/2))
